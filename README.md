@@ -3,6 +3,10 @@
 This project uses StableBaselines Reinforcement Learning (RL) algorithms for fine tuning a model for Pick-and-Place tasks
 of robot arms in MuJoCo simulation.
 
+
+Implemented and tested the logic to wrap a robot arm in a Gymnasium environment an use it to train a base policy in simulation and fine tune the base policu by taking the trained policy and adapting it to new dynamics.
+
+
 MuJoCo is an open source advanced physics simulation frame work from Google Deepmind and 
 you can learn about it in https://mujoco.org/
 
