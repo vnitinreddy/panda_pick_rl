@@ -1,7 +1,7 @@
 # panda_pick_rl
 
-This project uses StableBaselines Reinforcement Learning (RL) algorithms for fine tuning the MuJoCo models for
-tasks like pick and place.
+This project uses StableBaselines Reinforcement Learning (RL) algorithms for fine tuning a model for Pick-and-Place tasks
+of robot arms in MuJoCo simulation.
 
 MuJoCo is an open source advanced physics simulation frame work from Google Deepmind and 
 you can learn about it in https://mujoco.org/
